@@ -1,10 +1,15 @@
 import {StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
-box:{
-    width:'100%',
-    height:'100%',
-},
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+  },
+  box: {
+    flex: 1,
+    padding: 16,
+    backgroundColor:'#999',
+  },
 });
 
 export default styles;
