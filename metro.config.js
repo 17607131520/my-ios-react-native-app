@@ -10,7 +10,7 @@ const defaultConfig = getDefaultConfig(__dirname);
 
 const config = {
     resolver: {
-        sourceExts: ['js', 'ts', 'tsx', 'svg'],
+        sourceExts: ['js', 'ts', 'tsx', 'svg', 'json'],
       },
 };
 
