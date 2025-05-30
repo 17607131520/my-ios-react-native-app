@@ -1,1 +1,0 @@
-# my-ios-react-native-app
